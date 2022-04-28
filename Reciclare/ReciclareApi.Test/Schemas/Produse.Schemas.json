@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "nume": "Filtre de aspirator",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 2,
+    "nume": "Flacoane detergent",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 3,
+    "nume": "Pansamente",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 4,
+    "nume": "Servetele de masa folosite",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 5,
+    "nume": "Doze metal",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 6,
+    "nume": "Servetele de masa folosite",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 7,
+    "nume": "Bauturi alcoolice Sticla",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 8,
+    "nume": "Tampoane",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 9,
+    "nume": "Borcane",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 10,
+    "nume": "Coji de oua",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 11,
+    "nume": "Ziare",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 12,
+    "nume": "Flacoane sampon",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 13,
+    "nume": "Folie de plastic",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 14,
+    "nume": "Cutii carton",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 15,
+    "nume": "Paie",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 16,
+    "nume": "Resturi de peste",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 17,
+    "nume": "Resturi de legume",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 18,
+    "nume": "Coji de oua",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 19,
+    "nume": "Folie de metal",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 20,
+    "nume": "Iarba",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 21,
+    "nume": "Tampoane",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 22,
+    "nume": "Carti",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 23,
+    "nume": "Ambalaje alimentare carton",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 24,
+    "nume": "Cofrag",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 25,
+    "nume": "Folie de plastic",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 26,
+    "nume": "Betigase de urechi",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 27,
+    "nume": "Betigase de urechi",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 28,
+    "nume": "Bauturi alcoolice Sticla",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 29,
+    "nume": "Mucuri de tigara",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 30,
+    "nume": "Mucuri de tigara",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 31,
+    "nume": "Carti",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 32,
+    "nume": "Ziare murdare",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 33,
+    "nume": "Folie de plastic",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 34,
+    "nume": "Plasturi",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 35,
+    "nume": "Ziare murdare",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 36,
+    "nume": "Bandaje",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 37,
+    "nume": "Conserve",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 38,
+    "nume": "Pansamente",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 39,
+    "nume": "Cofrag",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 40,
+    "nume": "Doze metal",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 41,
+    "nume": "Folie de plastic",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 42,
+    "nume": "Plasturi",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 43,
+    "nume": "Pansamente",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 44,
+    "nume": "Folie de metal",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 45,
+    "nume": "Caiete",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 46,
+    "nume": "Borcane",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 47,
+    "nume": "Paie",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 48,
+    "nume": "Ziare murdare",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 49,
+    "nume": "Resturi de carne",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 50,
+    "nume": "Plasturi",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 51,
+    "nume": "Continutul sacului de la aspirator",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 52,
+    "nume": "PET apa",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 53,
+    "nume": "Cofrag",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 54,
+    "nume": "Borcane",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 55,
+    "nume": "Iarba",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 56,
+    "nume": "Ambalaje alimentare carton",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 57,
+    "nume": "Flacoane sampon",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 58,
+    "nume": "Caiete",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 59,
+    "nume": "Conserve",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 60,
+    "nume": "Iarba",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 61,
+    "nume": "Mucuri de tigara",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 62,
+    "nume": "Bauturi alcoolice Sticla",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 63,
+    "nume": "Conserve",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 64,
+    "nume": "Plasturi",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 65,
+    "nume": "Conserve",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 66,
+    "nume": "Coji de oua",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 67,
+    "nume": "Doze metal",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 68,
+    "nume": "Zat cafea",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 69,
+    "nume": "Vata",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 70,
+    "nume": "Folie de plastic",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 71,
+    "nume": "Vata",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 72,
+    "nume": "Crengi",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 73,
+    "nume": "Resturi de legume",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 74,
+    "nume": "Plasturi",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 75,
+    "nume": "Crengi",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 76,
+    "nume": "Flori",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 77,
+    "nume": "Rola de bucatarie",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 78,
+    "nume": "Tampoane",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 79,
+    "nume": "Cutii carton",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 80,
+    "nume": "Rola de bucatarie",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 81,
+    "nume": "Tuburi de alimente",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 82,
+    "nume": "Ramuri",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 83,
+    "nume": "Zat cafea",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 84,
+    "nume": "PET apa",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 85,
+    "nume": "Bandaje",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 86,
+    "nume": "Pliculete ceai",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 87,
+    "nume": "PET bere",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 88,
+    "nume": "PET suc",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 89,
+    "nume": "Hartie absorbanta",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 90,
+    "nume": "Conserve",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 91,
+    "nume": "Resturi de carne",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 92,
+    "nume": "Pliculete ceai",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 93,
+    "nume": "Cutii carton",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 94,
+    "nume": "Folie de metal",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 95,
+    "nume": "Resturi de peste",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 96,
+    "nume": "Fan",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 97,
+    "nume": "Borcane",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 98,
+    "nume": "Resturi de peste",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 99,
+    "nume": "Cutii de lapte",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 100,
+    "nume": "Caiete",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 101,
+    "nume": "Caiete",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 102,
+    "nume": "Servetele de masa folosite",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 103,
+    "nume": "Flori",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 104,
+    "nume": "PET apa",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 105,
+    "nume": "Mucuri de tigara",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 106,
+    "nume": "Doze metal",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 107,
+    "nume": "Vata",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 108,
+    "nume": "Resturi de fructe",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 109,
+    "nume": "Doze metal",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 110,
+    "nume": "Paie",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 111,
+    "nume": "Coji de oua",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 112,
+    "nume": "Bauturi alcoolice Sticla",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 113,
+    "nume": "Flacoane detergent",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 114,
+    "nume": "Cutii carton",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 115,
+    "nume": "Filtre de aspirator",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 116,
+    "nume": "Iarba",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 117,
+    "nume": "Cofrag",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 118,
+    "nume": "Tetrapack tomate",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 119,
+    "nume": "Resturi de peste",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 120,
+    "nume": "Pansamente",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 121,
+    "nume": "PET apa",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 122,
+    "nume": "Pansamente",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 123,
+    "nume": "Flacoane sampon",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 124,
+    "nume": "Resturi de peste",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 125,
+    "nume": "Cutii de lapte",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 126,
+    "nume": "Folie de metal",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 127,
+    "nume": "PET apa",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 128,
+    "nume": "Pliculete ceai",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 129,
+    "nume": "Flacoane sampon",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 130,
+    "nume": "Tampoane",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 131,
+    "nume": "Fan",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 132,
+    "nume": "Ziare",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 133,
+    "nume": "Crengi",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 134,
+    "nume": "Resturi de peste",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 135,
+    "nume": "PET suc",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 136,
+    "nume": "Doze metal",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 137,
+    "nume": "Flacoane detergent",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 138,
+    "nume": "Cutii carton",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 139,
+    "nume": "PET apa",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 140,
+    "nume": "Crengi",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 141,
+    "nume": "Cutii carton",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 142,
+    "nume": "Flacoane detergent",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 143,
+    "nume": "Borcane",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 144,
+    "nume": "Resturi de peste",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 145,
+    "nume": "Reviste",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 146,
+    "nume": "Cofrag",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 147,
+    "nume": "Filtre de aspirator",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 148,
+    "nume": "Vata",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 149,
+    "nume": "Carti",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 150,
+    "nume": "Ziare murdare",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 151,
+    "nume": "Coji de oua",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 152,
+    "nume": "Pansamente",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 153,
+    "nume": "Flacoane detergent",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 154,
+    "nume": "Flacoane detergent",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 155,
+    "nume": "Zat cafea",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 156,
+    "nume": "PET apa",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 157,
+    "nume": "Sucuri Tetrapack",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 158,
+    "nume": "Filtre de aspirator",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 159,
+    "nume": "Iarba",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 160,
+    "nume": "Ziare murdare",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 161,
+    "nume": "Ambalaje alimentare carton",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 162,
+    "nume": "Iarba",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 163,
+    "nume": "Pungi si ambalaje din plastic",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 164,
+    "nume": "Flori",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 165,
+    "nume": "Carti",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 166,
+    "nume": "Folie de metal",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 167,
+    "nume": "Pansamente",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 168,
+    "nume": "Resturi de carne",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 169,
+    "nume": "Tampoane",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 170,
+    "nume": "Flori",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 171,
+    "nume": "Sticle mici dimensiuni",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 172,
+    "nume": "Carti",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 173,
+    "nume": "Doze metal",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 174,
+    "nume": "Scutece",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 175,
+    "nume": "Folie de plastic",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 176,
+    "nume": "Betigase de urechi",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 177,
+    "nume": "Doze metal",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 178,
+    "nume": "Reviste",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 179,
+    "nume": "Flacoane detergent",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 180,
+    "nume": "Rola de bucatarie",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 181,
+    "nume": "Resturi de fructe",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 182,
+    "nume": "Filtre de aspirator",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 183,
+    "nume": "Borcane",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 184,
+    "nume": "Resturi de fructe",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 185,
+    "nume": "Flori",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 186,
+    "nume": "Pliculete ceai",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 187,
+    "nume": "Flacoane detergent",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 188,
+    "nume": "Tuburi de alimente",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 189,
+    "nume": "Fan",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 190,
+    "nume": "Hartie absorbanta",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 191,
+    "nume": "Scutece",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 192,
+    "nume": "Flacoane detergent",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 193,
+    "nume": "Resturi de legume",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 194,
+    "nume": "Sticle mici dimensiuni",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 195,
+    "nume": "Resturi de carne",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 196,
+    "nume": "Resturi de carne",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 197,
+    "nume": "Vata",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 198,
+    "nume": "Ambalaje alimentare carton",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 199,
+    "nume": "Caiete",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 200,
+    "nume": "Betigase de urechi",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 201,
+    "nume": "Carti",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 202,
+    "nume": "Sucuri Tetrapack",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 203,
+    "nume": "Bauturi racoritoare Sticla",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 204,
+    "nume": "Resturi de produse lactate",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 205,
+    "nume": "Caiete",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 206,
+    "nume": "Ambalaje alimentare carton",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 207,
+    "nume": "Cutii carton",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 208,
+    "nume": "PET bere",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 209,
+    "nume": "Flacoane detergent",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 210,
+    "nume": "Betigase de urechi",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 211,
+    "nume": "Mucuri de tigara",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 212,
+    "nume": "Cutii carton",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 213,
+    "nume": "Betigase de urechi",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 214,
+    "nume": "Folie de plastic",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 215,
+    "nume": "Resturi de peste",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 216,
+    "nume": "Iarba",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 217,
+    "nume": "Sticle mici dimensiuni",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 218,
+    "nume": "Servetele de masa folosite",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 219,
+    "nume": "Resturi de peste",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 220,
+    "nume": "Tampoane",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 221,
+    "nume": "Betigase de urechi",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 222,
+    "nume": "Filtre de aspirator",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 223,
+    "nume": "Tampoane",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 224,
+    "nume": "Pliculete ceai",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 225,
+    "nume": "Caiete",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 226,
+    "nume": "Doze metal",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 227,
+    "nume": "Folie de plastic",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 228,
+    "nume": "Sticle mici dimensiuni",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 229,
+    "nume": "Conserve",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 230,
+    "nume": "Cutii carton",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 231,
+    "nume": "Flacoane sampon",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 232,
+    "nume": "PET bere",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 233,
+    "nume": "Borcane",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 234,
+    "nume": "Flori",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 235,
+    "nume": "Folie de plastic",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 236,
+    "nume": "Iarba",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 237,
+    "nume": "Continutul sacului de la aspirator",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 238,
+    "nume": "Vata",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 239,
+    "nume": "Conserve",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 240,
+    "nume": "Caiete",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 241,
+    "nume": "Resturi de legume",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 242,
+    "nume": "Ramuri",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 243,
+    "nume": "Sticle mici dimensiuni",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 244,
+    "nume": "Mucuri de tigara",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 245,
+    "nume": "PET bere",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 246,
+    "nume": "PET apa",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 247,
+    "nume": "Conserve",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 248,
+    "nume": "Zat cafea",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 249,
+    "nume": "Folie de metal",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 250,
+    "nume": "Caiete",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 251,
+    "nume": "Carti",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 252,
+    "nume": "Bauturi racoritoare Sticla",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 253,
+    "nume": "Pliculete ceai",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 254,
+    "nume": "Cutii carton",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 255,
+    "nume": "Pungi si ambalaje din plastic",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 256,
+    "nume": "Caiete",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 257,
+    "nume": "Sticle mici dimensiuni",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 258,
+    "nume": "Ziare murdare",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 259,
+    "nume": "Zat cafea",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 260,
+    "nume": "Ambalaje alimentare carton",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 261,
+    "nume": "Resturi de produse lactate",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 262,
+    "nume": "Folie de plastic",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 263,
+    "nume": "Bandaje",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 264,
+    "nume": "Mucuri de tigara",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 265,
+    "nume": "Rola de bucatarie",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 266,
+    "nume": "Crengi",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 267,
+    "nume": "Resturi de carne",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 268,
+    "nume": "Sucuri Tetrapack",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 269,
+    "nume": "Ziare",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 270,
+    "nume": "Flori",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 271,
+    "nume": "Iarba",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 272,
+    "nume": "Filtre de aspirator",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 273,
+    "nume": "Bauturi racoritoare Sticla",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 274,
+    "nume": "Scutece",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 275,
+    "nume": "PET suc",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 276,
+    "nume": "Pliculete ceai",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 277,
+    "nume": "Continutul sacului de la aspirator",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 278,
+    "nume": "Flori",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 279,
+    "nume": "Iarba",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 280,
+    "nume": "Borcane",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 281,
+    "nume": "Bandaje",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 282,
+    "nume": "PET suc",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 283,
+    "nume": "PET suc",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 284,
+    "nume": "Tetrapack tomate",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 285,
+    "nume": "Pansamente",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 286,
+    "nume": "Resturi de fructe",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 287,
+    "nume": "Tampoane",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 288,
+    "nume": "Folie de plastic",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 289,
+    "nume": "Hartie absorbanta",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 290,
+    "nume": "Flacoane detergent",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 291,
+    "nume": "Resturi de carne",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 292,
+    "nume": "Flori",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 293,
+    "nume": "Vata",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 294,
+    "nume": "Zat cafea",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 295,
+    "nume": "Flacoane sampon",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 296,
+    "nume": "Tampoane",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 297,
+    "nume": "Folie de plastic",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 298,
+    "nume": "Servetele de masa folosite",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 299,
+    "nume": "Coji de oua",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 300,
+    "nume": "Resturi de carne",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 301,
+    "nume": "PET suc",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 302,
+    "nume": "Pliculete ceai",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 303,
+    "nume": "Ambalaje alimentare carton",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 304,
+    "nume": "Coji de oua",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 305,
+    "nume": "Hartie absorbanta",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 306,
+    "nume": "PET suc",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 307,
+    "nume": "Flacoane detergent",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 308,
+    "nume": "Filtre de aspirator",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 309,
+    "nume": "Ziare murdare",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 310,
+    "nume": "Tampoane",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 311,
+    "nume": "Fan",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 312,
+    "nume": "Conserve",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 313,
+    "nume": "Mucuri de tigara",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 314,
+    "nume": "Reviste",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 315,
+    "nume": "Tampoane",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 316,
+    "nume": "Crengi",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 317,
+    "nume": "Conserve",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 318,
+    "nume": "Cutii de lapte",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 319,
+    "nume": "Bauturi alcoolice Sticla",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 320,
+    "nume": "Vata",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 321,
+    "nume": "Bauturi alcoolice Sticla",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 322,
+    "nume": "Resturi de carne",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 323,
+    "nume": "Resturi de legume",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 324,
+    "nume": "PET suc",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 325,
+    "nume": "Continutul sacului de la aspirator",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 326,
+    "nume": "Ambalaje alimentare carton",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 327,
+    "nume": "Cofrag",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 328,
+    "nume": "Bauturi racoritoare Sticla",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 329,
+    "nume": "Ramuri",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 330,
+    "nume": "Pungi si ambalaje din plastic",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 331,
+    "nume": "Rola de bucatarie",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 332,
+    "nume": "Crengi",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 333,
+    "nume": "Coji de oua",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 334,
+    "nume": "Rola de bucatarie",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 335,
+    "nume": "Paie",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 336,
+    "nume": "Tuburi de alimente",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 337,
+    "nume": "Scutece",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 338,
+    "nume": "PET apa",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 339,
+    "nume": "Borcane",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 340,
+    "nume": "Scutece",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 341,
+    "nume": "Servetele de masa folosite",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 342,
+    "nume": "Resturi de carne",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 343,
+    "nume": "Pliculete ceai",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 344,
+    "nume": "Conserve",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 345,
+    "nume": "Flacoane detergent",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 346,
+    "nume": "Servetele de masa folosite",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 347,
+    "nume": "Cutii carton",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 348,
+    "nume": "Sucuri Tetrapack",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 349,
+    "nume": "Resturi de fructe",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 350,
+    "nume": "Ramuri",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 351,
+    "nume": "Plasturi",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 352,
+    "nume": "Tetrapack tomate",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 353,
+    "nume": "Bandaje",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 354,
+    "nume": "Paie",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 355,
+    "nume": "Resturi de carne",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 356,
+    "nume": "Servetele de masa folosite",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 357,
+    "nume": "Coji de oua",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 358,
+    "nume": "Pliculete ceai",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 359,
+    "nume": "Crengi",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 360,
+    "nume": "Caiete",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 361,
+    "nume": "Scutece",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 362,
+    "nume": "Ramuri",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 363,
+    "nume": "Doze metal",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 364,
+    "nume": "Cutii carton",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 365,
+    "nume": "Ambalaje alimentare carton",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 366,
+    "nume": "Sucuri Tetrapack",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 367,
+    "nume": "Bandaje",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 368,
+    "nume": "Continutul sacului de la aspirator",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 369,
+    "nume": "Bauturi racoritoare Sticla",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 370,
+    "nume": "Mucuri de tigara",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 371,
+    "nume": "Plasturi",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 372,
+    "nume": "Filtre de aspirator",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 373,
+    "nume": "Tuburi de alimente",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 374,
+    "nume": "Tetrapack tomate",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 375,
+    "nume": "Carti",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 376,
+    "nume": "Doze metal",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 377,
+    "nume": "Resturi de legume",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 378,
+    "nume": "Paie",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 379,
+    "nume": "Cutii de lapte",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 380,
+    "nume": "Coji de oua",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 381,
+    "nume": "PET suc",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 382,
+    "nume": "Coji de oua",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 383,
+    "nume": "Resturi de produse lactate",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 384,
+    "nume": "Reviste",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 385,
+    "nume": "Iarba",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 386,
+    "nume": "Flacoane detergent",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 387,
+    "nume": "PET apa",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 388,
+    "nume": "Crengi",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 389,
+    "nume": "Iarba",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 390,
+    "nume": "Resturi de peste",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 391,
+    "nume": "Tampoane",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 392,
+    "nume": "Resturi de fructe",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 393,
+    "nume": "Betigase de urechi",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 394,
+    "nume": "Scutece",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 395,
+    "nume": "Bandaje",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 396,
+    "nume": "Doze metal",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 397,
+    "nume": "Pungi si ambalaje din plastic",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 398,
+    "nume": "Flacoane detergent",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 399,
+    "nume": "Resturi de produse lactate",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 400,
+    "nume": "Ramuri",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 401,
+    "nume": "Sucuri Tetrapack",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 402,
+    "nume": "Rola de bucatarie",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 403,
+    "nume": "Rola de bucatarie",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 404,
+    "nume": "Filtre de aspirator",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 405,
+    "nume": "Resturi de carne",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 406,
+    "nume": "Pansamente",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 407,
+    "nume": "Resturi de fructe",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 408,
+    "nume": "Conserve",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 409,
+    "nume": "Mucuri de tigara",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 410,
+    "nume": "Ambalaje alimentare carton",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 411,
+    "nume": "Conserve",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 412,
+    "nume": "Pansamente",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 413,
+    "nume": "Flori",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 414,
+    "nume": "Hartie absorbanta",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 415,
+    "nume": "Ziare murdare",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 416,
+    "nume": "Ambalaje alimentare carton",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 417,
+    "nume": "Ziare murdare",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 418,
+    "nume": "PET bere",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 419,
+    "nume": "Crengi",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 420,
+    "nume": "Resturi de fructe",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 421,
+    "nume": "Cutii de lapte",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 422,
+    "nume": "Ziare murdare",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 423,
+    "nume": "Plasturi",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 424,
+    "nume": "Bandaje",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 425,
+    "nume": "Flacoane detergent",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 426,
+    "nume": "Flori",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 427,
+    "nume": "Ziare murdare",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 428,
+    "nume": "Resturi de carne",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 429,
+    "nume": "Borcane",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 430,
+    "nume": "Ambalaje alimentare carton",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 431,
+    "nume": "Pliculete ceai",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 432,
+    "nume": "Reviste",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 433,
+    "nume": "Reviste",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 434,
+    "nume": "Pungi si ambalaje din plastic",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 435,
+    "nume": "Caiete",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 436,
+    "nume": "Resturi de produse lactate",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 437,
+    "nume": "Resturi de carne",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 438,
+    "nume": "Ziare murdare",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 439,
+    "nume": "Ambalaje alimentare carton",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 440,
+    "nume": "Conserve",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 441,
+    "nume": "Cutii carton",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 442,
+    "nume": "Plasturi",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 443,
+    "nume": "Continutul sacului de la aspirator",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 444,
+    "nume": "Flori",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 445,
+    "nume": "Bauturi alcoolice Sticla",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 446,
+    "nume": "Folie de metal",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 447,
+    "nume": "Resturi de produse lactate",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 448,
+    "nume": "PET bere",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 449,
+    "nume": "Pansamente",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 450,
+    "nume": "Crengi",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 451,
+    "nume": "Folie de metal",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 452,
+    "nume": "Bauturi racoritoare Sticla",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 453,
+    "nume": "Bandaje",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 454,
+    "nume": "Cutii de lapte",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 455,
+    "nume": "Ziare",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 456,
+    "nume": "Resturi de fructe",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 457,
+    "nume": "Bauturi alcoolice Sticla",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 458,
+    "nume": "Pliculete ceai",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 459,
+    "nume": "Hartie absorbanta",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 460,
+    "nume": "Reviste",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 461,
+    "nume": "Continutul sacului de la aspirator",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 462,
+    "nume": "Flori",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 463,
+    "nume": "Pungi si ambalaje din plastic",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 464,
+    "nume": "Cofrag",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 465,
+    "nume": "PET apa",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 466,
+    "nume": "Tampoane",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 467,
+    "nume": "Resturi de produse lactate",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 468,
+    "nume": "Borcane",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 469,
+    "nume": "Flacoane sampon",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 470,
+    "nume": "Pliculete ceai",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 471,
+    "nume": "Plasturi",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 472,
+    "nume": "Flacoane sampon",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 473,
+    "nume": "Cutii carton",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 474,
+    "nume": "Bauturi alcoolice Sticla",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 475,
+    "nume": "Sticle mici dimensiuni",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 476,
+    "nume": "Reviste",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 477,
+    "nume": "Resturi de legume",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 478,
+    "nume": "Flacoane detergent",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 479,
+    "nume": "Rola de bucatarie",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 480,
+    "nume": "Caiete",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 481,
+    "nume": "Pansamente",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 482,
+    "nume": "Coji de oua",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 483,
+    "nume": "Resturi de fructe",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 484,
+    "nume": "Resturi de carne",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 485,
+    "nume": "Folie de metal",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 486,
+    "nume": "Ambalaje alimentare carton",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 487,
+    "nume": "Ziare",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 488,
+    "nume": "PET bere",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 489,
+    "nume": "Flacoane detergent",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 490,
+    "nume": "PET suc",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 491,
+    "nume": "Betigase de urechi",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 492,
+    "nume": "Ambalaje alimentare carton",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 493,
+    "nume": "Cofrag",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 494,
+    "nume": "Sticle mici dimensiuni",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 495,
+    "nume": "Rola de bucatarie",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 496,
+    "nume": "Cutii de lapte",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 497,
+    "nume": "Filtre de aspirator",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 498,
+    "nume": "Hartie absorbanta",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 499,
+    "nume": "PET bere",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 500,
+    "nume": "Filtre de aspirator",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 501,
+    "nume": "Caiete",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 502,
+    "nume": "Pliculete ceai",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 503,
+    "nume": "Resturi de carne",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 504,
+    "nume": "Rola de bucatarie",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 505,
+    "nume": "Carti",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 506,
+    "nume": "Sucuri Tetrapack",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 507,
+    "nume": "Sticle mici dimensiuni",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 508,
+    "nume": "Tampoane",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 509,
+    "nume": "Continutul sacului de la aspirator",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 510,
+    "nume": "Iarba",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 511,
+    "nume": "Scutece",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 512,
+    "nume": "Tuburi de alimente",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 513,
+    "nume": "Vata",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 514,
+    "nume": "Mucuri de tigara",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 515,
+    "nume": "Rola de bucatarie",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 516,
+    "nume": "Conserve",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 517,
+    "nume": "Mucuri de tigara",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 518,
+    "nume": "Coji de oua",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 519,
+    "nume": "Servetele de masa folosite",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 520,
+    "nume": "Resturi de produse lactate",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 521,
+    "nume": "Tuburi de alimente",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 522,
+    "nume": "Ambalaje alimentare carton",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 523,
+    "nume": "Iarba",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 524,
+    "nume": "Tuburi de alimente",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 525,
+    "nume": "Mucuri de tigara",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 526,
+    "nume": "Cutii carton",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 527,
+    "nume": "Flacoane detergent",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 528,
+    "nume": "Bandaje",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 529,
+    "nume": "Sticle mici dimensiuni",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 530,
+    "nume": "Carti",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 531,
+    "nume": "Folie de metal",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 532,
+    "nume": "Folie de metal",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 533,
+    "nume": "Crengi",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 534,
+    "nume": "Scutece",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 535,
+    "nume": "Ziare murdare",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 536,
+    "nume": "Resturi de peste",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 537,
+    "nume": "Paie",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 538,
+    "nume": "Tuburi de alimente",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 539,
+    "nume": "Resturi de legume",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 540,
+    "nume": "Ramuri",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 541,
+    "nume": "Reviste",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 542,
+    "nume": "Coji de oua",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 543,
+    "nume": "Sticle mici dimensiuni",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 544,
+    "nume": "Resturi de carne",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 545,
+    "nume": "Servetele de masa folosite",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 546,
+    "nume": "Ramuri",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 547,
+    "nume": "Resturi de carne",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 548,
+    "nume": "Bauturi alcoolice Sticla",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 549,
+    "nume": "PET apa",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 550,
+    "nume": "Reviste",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 551,
+    "nume": "Servetele de masa folosite",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 552,
+    "nume": "Rola de bucatarie",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 553,
+    "nume": "Resturi de produse lactate",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 554,
+    "nume": "PET apa",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 555,
+    "nume": "Pansamente",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 556,
+    "nume": "Conserve",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 557,
+    "nume": "Folie de plastic",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 558,
+    "nume": "Coji de oua",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 559,
+    "nume": "Mucuri de tigara",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 560,
+    "nume": "Resturi de produse lactate",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 561,
+    "nume": "Fan",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 562,
+    "nume": "Resturi de carne",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 563,
+    "nume": "Ramuri",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 564,
+    "nume": "Borcane",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 565,
+    "nume": "Resturi de legume",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 566,
+    "nume": "Cofrag",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 567,
+    "nume": "Sucuri Tetrapack",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 568,
+    "nume": "Plasturi",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 569,
+    "nume": "Bauturi racoritoare Sticla",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 570,
+    "nume": "Sucuri Tetrapack",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 571,
+    "nume": "Sticle mici dimensiuni",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 572,
+    "nume": "Scutece",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 573,
+    "nume": "Continutul sacului de la aspirator",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 574,
+    "nume": "Crengi",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 575,
+    "nume": "Mucuri de tigara",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 576,
+    "nume": "Ambalaje alimentare carton",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 577,
+    "nume": "Paie",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 578,
+    "nume": "Folie de metal",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 579,
+    "nume": "Filtre de aspirator",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 580,
+    "nume": "Tampoane",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 581,
+    "nume": "Scutece",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 582,
+    "nume": "Ziare murdare",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 583,
+    "nume": "Pansamente",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 584,
+    "nume": "Mucuri de tigara",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 585,
+    "nume": "Plasturi",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 586,
+    "nume": "Scutece",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 587,
+    "nume": "Ambalaje alimentare carton",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 588,
+    "nume": "Mucuri de tigara",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 589,
+    "nume": "Resturi de produse lactate",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 590,
+    "nume": "Fan",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 591,
+    "nume": "Cutii carton",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 592,
+    "nume": "Flacoane detergent",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 593,
+    "nume": "Resturi de carne",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 594,
+    "nume": "Doze metal",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 595,
+    "nume": "PET apa",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 596,
+    "nume": "PET suc",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 597,
+    "nume": "Tetrapack tomate",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 598,
+    "nume": "Resturi de peste",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 599,
+    "nume": "Resturi de carne",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 600,
+    "nume": "Cutii de lapte",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 601,
+    "nume": "Mucuri de tigara",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 602,
+    "nume": "Carti",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 603,
+    "nume": "Cofrag",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 604,
+    "nume": "Ziare murdare",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 605,
+    "nume": "Ambalaje alimentare carton",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 606,
+    "nume": "Folie de plastic",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 607,
+    "nume": "Filtre de aspirator",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 608,
+    "nume": "Hartie absorbanta",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 609,
+    "nume": "Resturi de legume",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 610,
+    "nume": "Iarba",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 611,
+    "nume": "Hartie absorbanta",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 612,
+    "nume": "Resturi de peste",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 613,
+    "nume": "Resturi de carne",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 614,
+    "nume": "Iarba",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 615,
+    "nume": "PET bere",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 616,
+    "nume": "Iarba",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 617,
+    "nume": "Resturi de carne",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 618,
+    "nume": "Doze metal",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 619,
+    "nume": "Tampoane",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 620,
+    "nume": "PET apa",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 621,
+    "nume": "Zat cafea",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 622,
+    "nume": "Vata",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 623,
+    "nume": "PET bere",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 624,
+    "nume": "Ramuri",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 625,
+    "nume": "Hartie absorbanta",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 626,
+    "nume": "Tuburi de alimente",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 627,
+    "nume": "Bauturi alcoolice Sticla",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 628,
+    "nume": "Flori",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 629,
+    "nume": "Pungi si ambalaje din plastic",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 630,
+    "nume": "Sticle mici dimensiuni",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 631,
+    "nume": "Cutii carton",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 632,
+    "nume": "Pansamente",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 633,
+    "nume": "Cofrag",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 634,
+    "nume": "Crengi",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 635,
+    "nume": "Filtre de aspirator",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 636,
+    "nume": "Flacoane sampon",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 637,
+    "nume": "Caiete",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 638,
+    "nume": "Filtre de aspirator",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 639,
+    "nume": "Scutece",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 640,
+    "nume": "Ambalaje alimentare carton",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 641,
+    "nume": "Resturi de produse lactate",
+    "cantitate": 4,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 642,
+    "nume": "Rola de bucatarie",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 643,
+    "nume": "Continutul sacului de la aspirator",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 644,
+    "nume": "Crengi",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 645,
+    "nume": "Flacoane detergent",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 646,
+    "nume": "Crengi",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 647,
+    "nume": "Folie de metal",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 648,
+    "nume": "Pungi si ambalaje din plastic",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 649,
+    "nume": "Conserve",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 650,
+    "nume": "Coji de oua",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 651,
+    "nume": "Pungi si ambalaje din plastic",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 652,
+    "nume": "Borcane",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 653,
+    "nume": "Resturi de legume",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 654,
+    "nume": "Resturi de legume",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 655,
+    "nume": "Folie de plastic",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 656,
+    "nume": "Borcane",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 657,
+    "nume": "Pansamente",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 658,
+    "nume": "Flacoane sampon",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 659,
+    "nume": "Cutii de lapte",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 660,
+    "nume": "Pansamente",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 661,
+    "nume": "Carti",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 662,
+    "nume": "Ziare",
+    "cantitate": 10,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 663,
+    "nume": "Pansamente",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 664,
+    "nume": "Bandaje",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 665,
+    "nume": "Resturi de carne",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 666,
+    "nume": "Zat cafea",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 667,
+    "nume": "Folie de metal",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 668,
+    "nume": "Folie de metal",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 669,
+    "nume": "Tetrapack tomate",
+    "cantitate": 8,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 670,
+    "nume": "Rola de bucatarie",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 671,
+    "nume": "Borcane",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 672,
+    "nume": "Scutece",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 673,
+    "nume": "Doze metal",
+    "cantitate": 1,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 674,
+    "nume": "Resturi de carne",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 675,
+    "nume": "Scutece",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 676,
+    "nume": "PET apa",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 677,
+    "nume": "Mucuri de tigara",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 678,
+    "nume": "Betigase de urechi",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 679,
+    "nume": "Ziare",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 680,
+    "nume": "Rola de bucatarie",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 681,
+    "nume": "Mucuri de tigara",
+    "cantitate": 9,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 682,
+    "nume": "Iarba",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 683,
+    "nume": "Tetrapack tomate",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 684,
+    "nume": "Servetele de masa folosite",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 685,
+    "nume": "Continutul sacului de la aspirator",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 686,
+    "nume": "Iarba",
+    "cantitate": 7,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 687,
+    "nume": "Resturi de fructe",
+    "cantitate": 2,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 688,
+    "nume": "Conserve",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 689,
+    "nume": "Conserve",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 690,
+    "nume": "Zat cafea",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 691,
+    "nume": "Bauturi alcoolice Sticla",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 692,
+    "nume": "Rola de bucatarie",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 693,
+    "nume": "Crengi",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 694,
+    "nume": "Betigase de urechi",
+    "cantitate": 3,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 695,
+    "nume": "Resturi de legume",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 696,
+    "nume": "Pliculete ceai",
+    "cantitate": 6,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 697,
+    "nume": "Rola de bucatarie",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 698,
+    "nume": "Zat cafea",
+    "cantitate": 5,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 699,
+    "nume": "Vata",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 700,
+    "nume": "Sticle mici dimensiuni",
+    "cantitate": null,
+    "produs_pubele": "da"
+  },
+  {
+    "id": 701,
+    "nume": "Sticla de geam",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 702,
+    "nume": "Lacuri",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 703,
+    "nume": "Mochete",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 704,
+    "nume": "Plapumi",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 705,
+    "nume": "Oglinzi",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 706,
+    "nume": "Piese de mobilier",
+    "cantitate": 1,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 707,
+    "nume": "Parbriz",
+    "cantitate": 2,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 708,
+    "nume": "Medicamente expirate",
+    "cantitate": 7,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 709,
+    "nume": "Solventi",
+    "cantitate": 7,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 710,
+    "nume": "Baterii uzate",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 711,
+    "nume": "Mochete",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 712,
+    "nume": "Neoane",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 713,
+    "nume": "Baterii uzate",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 714,
+    "nume": "Neoane",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 715,
+    "nume": "Solventi",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 716,
+    "nume": "Polistiren",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 717,
+    "nume": "Becuri",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 718,
+    "nume": "Piese de mobilier",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 719,
+    "nume": "Neoane",
+    "cantitate": 7,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 720,
+    "nume": "Vopsele",
+    "cantitate": 7,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 721,
+    "nume": "Solventi",
+    "cantitate": 2,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 722,
+    "nume": "Medicamente expirate",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 723,
+    "nume": "Mochete",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 724,
+    "nume": "Uleiuri uzate",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 725,
+    "nume": "Sticla de geam",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 726,
+    "nume": "Becuri",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 727,
+    "nume": "Medicamente expirate",
+    "cantitate": 1,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 728,
+    "nume": "Sticla de geam",
+    "cantitate": 7,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 729,
+    "nume": "Plapumi",
+    "cantitate": 1,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 730,
+    "nume": "Polistiren",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 731,
+    "nume": "Neoane",
+    "cantitate": 2,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 732,
+    "nume": "Piese de mobilier",
+    "cantitate": 8,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 733,
+    "nume": "Vopsele",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 734,
+    "nume": "Solventi",
+    "cantitate": 8,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 735,
+    "nume": "Sticla de geam",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 736,
+    "nume": "Covoare",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 737,
+    "nume": "Medicamente expirate",
+    "cantitate": 8,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 738,
+    "nume": "Becuri",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 739,
+    "nume": "Sticla de geam",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 740,
+    "nume": "Piese de mobilier",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 741,
+    "nume": "Uleiuri uzate",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 742,
+    "nume": "Piese de mobilier",
+    "cantitate": 1,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 743,
+    "nume": "Sticla de geam",
+    "cantitate": 7,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 744,
+    "nume": "Vopsele",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 745,
+    "nume": "Lacuri",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 746,
+    "nume": "Saltele",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 747,
+    "nume": "Neoane",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 748,
+    "nume": "Parbriz",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 749,
+    "nume": "Covoare",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 750,
+    "nume": "Parbriz",
+    "cantitate": 2,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 751,
+    "nume": "Piese de mobilier",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 752,
+    "nume": "Lacuri",
+    "cantitate": 8,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 753,
+    "nume": "Saltele",
+    "cantitate": 7,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 754,
+    "nume": "Polistiren",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 755,
+    "nume": "Plapumi",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 756,
+    "nume": "Saltele",
+    "cantitate": 7,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 757,
+    "nume": "Oglinzi",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 758,
+    "nume": "Solventi",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 759,
+    "nume": "Polistiren",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 760,
+    "nume": "Polistiren",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 761,
+    "nume": "Uleiuri uzate",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 762,
+    "nume": "Solventi",
+    "cantitate": 8,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 763,
+    "nume": "Medicamente expirate",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 764,
+    "nume": "Parbriz",
+    "cantitate": 2,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 765,
+    "nume": "Sticla de geam",
+    "cantitate": 8,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 766,
+    "nume": "Covoare",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 767,
+    "nume": "Polistiren",
+    "cantitate": 2,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 768,
+    "nume": "Solventi",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 769,
+    "nume": "Neoane",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 770,
+    "nume": "Neoane",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 771,
+    "nume": "Uleiuri uzate",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 772,
+    "nume": "Saltele",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 773,
+    "nume": "Medicamente expirate",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 774,
+    "nume": "Medicamente expirate",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 775,
+    "nume": "Becuri",
+    "cantitate": 2,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 776,
+    "nume": "Piese de mobilier",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 777,
+    "nume": "Baterii uzate",
+    "cantitate": 1,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 778,
+    "nume": "Neoane",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 779,
+    "nume": "Solventi",
+    "cantitate": 8,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 780,
+    "nume": "Plapumi",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 781,
+    "nume": "Baterii uzate",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 782,
+    "nume": "Lacuri",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 783,
+    "nume": "Lacuri",
+    "cantitate": 2,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 784,
+    "nume": "Oglinzi",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 785,
+    "nume": "Sticla de geam",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 786,
+    "nume": "Polistiren",
+    "cantitate": 2,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 787,
+    "nume": "Vopsele",
+    "cantitate": 7,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 788,
+    "nume": "Plapumi",
+    "cantitate": 2,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 789,
+    "nume": "Covoare",
+    "cantitate": 1,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 790,
+    "nume": "Lacuri",
+    "cantitate": 8,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 791,
+    "nume": "Solventi",
+    "cantitate": 8,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 792,
+    "nume": "Becuri",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 793,
+    "nume": "Neoane",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 794,
+    "nume": "Polistiren",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 795,
+    "nume": "Solventi",
+    "cantitate": 1,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 796,
+    "nume": "Polistiren",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 797,
+    "nume": "Baterii uzate",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 798,
+    "nume": "Lacuri",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 799,
+    "nume": "Covoare",
+    "cantitate": 1,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 800,
+    "nume": "Sticla de geam",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 801,
+    "nume": "Polistiren",
+    "cantitate": 1,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 802,
+    "nume": "Mochete",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 803,
+    "nume": "Piese de mobilier",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 804,
+    "nume": "Piese de mobilier",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 805,
+    "nume": "Plapumi",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 806,
+    "nume": "Mochete",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 807,
+    "nume": "Sticla de geam",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 808,
+    "nume": "Solventi",
+    "cantitate": 7,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 809,
+    "nume": "Uleiuri uzate",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 810,
+    "nume": "Sticla de geam",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 811,
+    "nume": "Plapumi",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 812,
+    "nume": "Oglinzi",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 813,
+    "nume": "Uleiuri uzate",
+    "cantitate": 1,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 814,
+    "nume": "Oglinzi",
+    "cantitate": 7,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 815,
+    "nume": "Medicamente expirate",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 816,
+    "nume": "Becuri",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 817,
+    "nume": "Covoare",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 818,
+    "nume": "Parbriz",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 819,
+    "nume": "Covoare",
+    "cantitate": 7,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 820,
+    "nume": "Plapumi",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 821,
+    "nume": "Oglinzi",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 822,
+    "nume": "Medicamente expirate",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 823,
+    "nume": "Medicamente expirate",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 824,
+    "nume": "Oglinzi",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 825,
+    "nume": "Oglinzi",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 826,
+    "nume": "Oglinzi",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 827,
+    "nume": "Parbriz",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 828,
+    "nume": "Covoare",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 829,
+    "nume": "Oglinzi",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 830,
+    "nume": "Medicamente expirate",
+    "cantitate": 1,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 831,
+    "nume": "Lacuri",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 832,
+    "nume": "Baterii uzate",
+    "cantitate": 7,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 833,
+    "nume": "Vopsele",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 834,
+    "nume": "Piese de mobilier",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 835,
+    "nume": "Lacuri",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 836,
+    "nume": "Polistiren",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 837,
+    "nume": "Neoane",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 838,
+    "nume": "Polistiren",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 839,
+    "nume": "Polistiren",
+    "cantitate": 7,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 840,
+    "nume": "Mochete",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 841,
+    "nume": "Mochete",
+    "cantitate": 7,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 842,
+    "nume": "Sticla de geam",
+    "cantitate": 7,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 843,
+    "nume": "Becuri",
+    "cantitate": 1,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 844,
+    "nume": "Sticla de geam",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 845,
+    "nume": "Neoane",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 846,
+    "nume": "Neoane",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 847,
+    "nume": "Polistiren",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 848,
+    "nume": "Saltele",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 849,
+    "nume": "Oglinzi",
+    "cantitate": 2,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 850,
+    "nume": "Baterii uzate",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 851,
+    "nume": "Oglinzi",
+    "cantitate": 1,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 852,
+    "nume": "Vopsele",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 853,
+    "nume": "Medicamente expirate",
+    "cantitate": 8,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 854,
+    "nume": "Uleiuri uzate",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 855,
+    "nume": "Piese de mobilier",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 856,
+    "nume": "Covoare",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 857,
+    "nume": "Baterii uzate",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 858,
+    "nume": "Parbriz",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 859,
+    "nume": "Mochete",
+    "cantitate": 7,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 860,
+    "nume": "Mochete",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 861,
+    "nume": "Covoare",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 862,
+    "nume": "Polistiren",
+    "cantitate": 1,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 863,
+    "nume": "Parbriz",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 864,
+    "nume": "Covoare",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 865,
+    "nume": "Plapumi",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 866,
+    "nume": "Polistiren",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 867,
+    "nume": "Uleiuri uzate",
+    "cantitate": 7,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 868,
+    "nume": "Covoare",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 869,
+    "nume": "Neoane",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 870,
+    "nume": "Parbriz",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 871,
+    "nume": "Baterii uzate",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 872,
+    "nume": "Solventi",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 873,
+    "nume": "Oglinzi",
+    "cantitate": 8,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 874,
+    "nume": "Medicamente expirate",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 875,
+    "nume": "Uleiuri uzate",
+    "cantitate": 8,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 876,
+    "nume": "Uleiuri uzate",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 877,
+    "nume": "Piese de mobilier",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 878,
+    "nume": "Mochete",
+    "cantitate": 8,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 879,
+    "nume": "Vopsele",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 880,
+    "nume": "Polistiren",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 881,
+    "nume": "Medicamente expirate",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 882,
+    "nume": "Oglinzi",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 883,
+    "nume": "Neoane",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 884,
+    "nume": "Neoane",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 885,
+    "nume": "Solventi",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 886,
+    "nume": "Medicamente expirate",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 887,
+    "nume": "Neoane",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 888,
+    "nume": "Covoare",
+    "cantitate": 2,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 889,
+    "nume": "Baterii uzate",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 890,
+    "nume": "Oglinzi",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 891,
+    "nume": "Polistiren",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 892,
+    "nume": "Oglinzi",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 893,
+    "nume": "Becuri",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 894,
+    "nume": "Mochete",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 895,
+    "nume": "Saltele",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 896,
+    "nume": "Mochete",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 897,
+    "nume": "Lacuri",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 898,
+    "nume": "Polistiren",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 899,
+    "nume": "Piese de mobilier",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 900,
+    "nume": "Sticla de geam",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 901,
+    "nume": "Vopsele",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 902,
+    "nume": "Solventi",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 903,
+    "nume": "Parbriz",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 904,
+    "nume": "Piese de mobilier",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 905,
+    "nume": "Lacuri",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 906,
+    "nume": "Baterii uzate",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 907,
+    "nume": "Solventi",
+    "cantitate": 7,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 908,
+    "nume": "Neoane",
+    "cantitate": 2,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 909,
+    "nume": "Becuri",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 910,
+    "nume": "Neoane",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 911,
+    "nume": "Uleiuri uzate",
+    "cantitate": 1,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 912,
+    "nume": "Solventi",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 913,
+    "nume": "Baterii uzate",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 914,
+    "nume": "Medicamente expirate",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 915,
+    "nume": "Saltele",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 916,
+    "nume": "Plapumi",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 917,
+    "nume": "Becuri",
+    "cantitate": 7,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 918,
+    "nume": "Sticla de geam",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 919,
+    "nume": "Baterii uzate",
+    "cantitate": 1,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 920,
+    "nume": "Plapumi",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 921,
+    "nume": "Vopsele",
+    "cantitate": 2,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 922,
+    "nume": "Covoare",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 923,
+    "nume": "Baterii uzate",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 924,
+    "nume": "Covoare",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 925,
+    "nume": "Sticla de geam",
+    "cantitate": 1,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 926,
+    "nume": "Vopsele",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 927,
+    "nume": "Medicamente expirate",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 928,
+    "nume": "Uleiuri uzate",
+    "cantitate": 8,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 929,
+    "nume": "Mochete",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 930,
+    "nume": "Vopsele",
+    "cantitate": 8,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 931,
+    "nume": "Lacuri",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 932,
+    "nume": "Baterii uzate",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 933,
+    "nume": "Sticla de geam",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 934,
+    "nume": "Mochete",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 935,
+    "nume": "Polistiren",
+    "cantitate": 8,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 936,
+    "nume": "Vopsele",
+    "cantitate": 8,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 937,
+    "nume": "Saltele",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 938,
+    "nume": "Polistiren",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 939,
+    "nume": "Saltele",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 940,
+    "nume": "Piese de mobilier",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 941,
+    "nume": "Solventi",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 942,
+    "nume": "Vopsele",
+    "cantitate": 8,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 943,
+    "nume": "Piese de mobilier",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 944,
+    "nume": "Vopsele",
+    "cantitate": 1,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 945,
+    "nume": "Vopsele",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 946,
+    "nume": "Sticla de geam",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 947,
+    "nume": "Mochete",
+    "cantitate": 1,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 948,
+    "nume": "Becuri",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 949,
+    "nume": "Medicamente expirate",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 950,
+    "nume": "Neoane",
+    "cantitate": 7,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 951,
+    "nume": "Saltele",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 952,
+    "nume": "Mochete",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 953,
+    "nume": "Covoare",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 954,
+    "nume": "Covoare",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 955,
+    "nume": "Piese de mobilier",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 956,
+    "nume": "Vopsele",
+    "cantitate": 2,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 957,
+    "nume": "Lacuri",
+    "cantitate": 2,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 958,
+    "nume": "Medicamente expirate",
+    "cantitate": 1,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 959,
+    "nume": "Solventi",
+    "cantitate": 1,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 960,
+    "nume": "Neoane",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 961,
+    "nume": "Solventi",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 962,
+    "nume": "Baterii uzate",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 963,
+    "nume": "Solventi",
+    "cantitate": 1,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 964,
+    "nume": "Mochete",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 965,
+    "nume": "Uleiuri uzate",
+    "cantitate": 7,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 966,
+    "nume": "Uleiuri uzate",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 967,
+    "nume": "Parbriz",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 968,
+    "nume": "Neoane",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 969,
+    "nume": "Oglinzi",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 970,
+    "nume": "Plapumi",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 971,
+    "nume": "Sticla de geam",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 972,
+    "nume": "Oglinzi",
+    "cantitate": 2,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 973,
+    "nume": "Polistiren",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 974,
+    "nume": "Sticla de geam",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 975,
+    "nume": "Becuri",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 976,
+    "nume": "Uleiuri uzate",
+    "cantitate": 7,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 977,
+    "nume": "Uleiuri uzate",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 978,
+    "nume": "Uleiuri uzate",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 979,
+    "nume": "Covoare",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 980,
+    "nume": "Plapumi",
+    "cantitate": 8,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 981,
+    "nume": "Covoare",
+    "cantitate": 8,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 982,
+    "nume": "Baterii uzate",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 983,
+    "nume": "Baterii uzate",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 984,
+    "nume": "Solventi",
+    "cantitate": 9,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 985,
+    "nume": "Saltele",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 986,
+    "nume": "Baterii uzate",
+    "cantitate": 6,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 987,
+    "nume": "Medicamente expirate",
+    "cantitate": 8,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 988,
+    "nume": "Medicamente expirate",
+    "cantitate": null,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 989,
+    "nume": "Vopsele",
+    "cantitate": 8,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 990,
+    "nume": "Sticla de geam",
+    "cantitate": 7,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 991,
+    "nume": "Uleiuri uzate",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 992,
+    "nume": "Solventi",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 993,
+    "nume": "Oglinzi",
+    "cantitate": 7,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 994,
+    "nume": "Covoare",
+    "cantitate": 2,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 995,
+    "nume": "Mochete",
+    "cantitate": 5,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 996,
+    "nume": "Polistiren",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 997,
+    "nume": "Becuri",
+    "cantitate": 2,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 998,
+    "nume": "Neoane",
+    "cantitate": 3,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 999,
+    "nume": "Polistiren",
+    "cantitate": 4,
+    "produse_pubele": "nu"
+  },
+  {
+    "id": 1000,
+    "nume": "Sticla de geam",
+    "cantitate": 10,
+    "produse_pubele": "nu"
+  }
+]
